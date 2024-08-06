@@ -1,6 +1,7 @@
 # Hello, my name is Yevhen Stavytskyi! 👋
 
-![Yevhen Stavytskyi](https://t.me/Eugenius71991)
+![<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+](https://t.me/Eugenius71991)
 
 I am a software developer with experience in web development and bot creation. I am constantly striving to learn new technologies and improve my skills.
 
