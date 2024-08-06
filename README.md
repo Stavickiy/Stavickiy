@@ -4,7 +4,7 @@
 
 I am a software developer with experience in web development and bot creation. I am constantly striving to learn new technologies and improve my skills.
 
-- 🌱 Currently studying: **Python and JS**
+- 🌱 Currently working under: **WEB Aplication on Django + DRF**
 - 💼 Experience: **1 year in web application development**
 - 🌍 Location: **Turin Italy**
 
@@ -13,7 +13,7 @@ I am a software developer with experience in web development and bot creation. I
 ### [iHerbDonbassBot](https://github.com/Stavickiy/telegram_bot)
 Asynchronous bot for Telegram, designed to interact with users of the iHerbDonbass online store.
 
-- **Tech stack:** Python, Telegram API
+- **Tech stack:** Python, aiogram, asyncio
 - **Features:**
 - Order processing
 - User interaction
@@ -29,7 +29,7 @@ A CRM system for patient relationship management, specially designed for dental 
 ### [weather_project](https://github.com/Stavickiy/weather_project)
 A web application for displaying the weather.
 
-- **Tech stack:** SCSS
+- **Tech stack:** Python, Django, Django Rest Framework
 - **Features:**
 - Up-to-date weather information
 - Interactive charts
@@ -39,7 +39,3 @@ A web application for displaying the weather.
 - 📧 Email: [stavickiydgo@gmail.com](mailto:stavickiydgo@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/stavickiy](https://www.linkedin.com/in/yevhen-stavytskyi-b721a7280/)
 - 🌐 Telegram: [Eugenius71991](https://t.me/Eugenius71991)
-
-## 💬 Acknowledgments
-
-Thanks for visiting my GitHub profile! If you have any questions or suggestions, feel free to contact me.
