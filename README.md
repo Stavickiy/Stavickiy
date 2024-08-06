@@ -1,12 +1,11 @@
 # Hello, my name is Evgeniy Stavitskiy! 👋
 
-![Header](https://your-header-image-url)
+![Evgeniy Stavitskiy](https://t.me/Eugenius71991)
 
 I am a software developer with experience in web development and bot creation. I am constantly striving to learn new technologies and improve my skills.
 
-- 🌱 Currently studying: **TypeScript and GraphQL**
-- 💼 Experience: **5 years in web application development**
-- 🎓 Education: **Master of Computer Science**
+- 🌱 Currently studying: **Python and JS**
+- 💼 Experience: **1 year in web application development**
 - 🌍 Location: **Turin Italy**
 
 ## 🚀 My projects
@@ -22,7 +21,7 @@ Asynchronous bot for Telegram, designed to interact with users of the iHerbDonba
 ### [AnnaMedical CRM](https://github.com/Stavickiy/annamedical)
 A CRM system for patient relationship management, specially designed for dental clinics.
 
-- **Tech stack:** JavaScript
+- **Tech stack:** Python, Django, Django Rest Framework, JS, Celery
 - **Features:**
 - Patient management
 - Process automation
@@ -37,9 +36,9 @@ A web application for displaying the weather.
 
 ## 📫 Contacts
 
-- 📧 Email: [stavickiy@example.com](mailto:stavickiy@example.com)
-- 💼 LinkedIn: [linkedin.com/in/stavickiy](https://www.linkedin.com/in/stavickiy)
-- 🌐 Personal website: [stavickiy.com](https://stavickiy.com)
+- 📧 Email: [stavickiydgo@gmail.com](mailto:stavickiydgo@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/stavickiy](https://www.linkedin.com/in/yevhen-stavytskyi-b721a7280/)
+- 🌐 Telegram: [Telegram]([https://stavickiy.com](https://t.me/Eugenius71991))
 
 ## 💬 Acknowledgments
 
