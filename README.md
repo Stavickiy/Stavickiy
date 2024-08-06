@@ -38,7 +38,7 @@ A web application for displaying the weather.
 
 - 📧 Email: [stavickiydgo@gmail.com](mailto:stavickiydgo@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/stavickiy](https://www.linkedin.com/in/yevhen-stavytskyi-b721a7280/)
-- 🌐 Telegram: [Telegram]([https://stavickiy.com](https://t.me/Eugenius71991))
+- 🌐 Telegram: [Telegram][https://stavickiy.com](https://t.me/Eugenius71991)
 
 ## 💬 Acknowledgments
 
