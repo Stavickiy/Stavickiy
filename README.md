@@ -1,6 +1,6 @@
-# Hello, my name is Evgeniy Stavitskiy! 👋
+# Hello, my name is Yevhen Stavytskyi! 👋
 
-![Header](https://t.me/Eugenius71991)
+![Yevhen Stavytskyi](https://t.me/Eugenius71991)
 
 I am a software developer with experience in web development and bot creation. I am constantly striving to learn new technologies and improve my skills.
 
