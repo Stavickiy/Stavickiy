@@ -2,7 +2,7 @@
 
 I am a software developer with experience in web development and bot creation. I am constantly striving to learn new technologies and improve my skills.
 
-- 💼 Experience: **1+ year in web application development**
+- 💼 Experience: **2+ year in web application development**
 - 🌍 Location: **Turin Italy**
 
 ## ⚙️ Technology stack
