@@ -10,11 +10,11 @@ I am a software developer with experience in web development and bot creation. I
 ### Backend: 
 <p>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-9C59D1.svg?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/DRF-%239B9B9B.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Odoo-9C59D1.svg?style=for-the-badge&logo=odoo&logoColor=white" />
 </p>
 
 ### Databases: 
